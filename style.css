@@ -7,6 +7,7 @@ body {
 }
 
 header h2 {
+  border: 2px;
  padding: 25px;
 }
 
@@ -16,11 +17,13 @@ p {
 
 }
 
-aside-section {
+aside section {
   padding: 20px;
 }
 
-
+.neatcolor {
+  color: #228b22; 
+}
 
 section {
   width: 70%;
