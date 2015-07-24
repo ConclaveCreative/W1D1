@@ -1,0 +1,38 @@
+body {
+  background: blue;
+  color: red;
+  font-family: sans-serif;
+  margin-left: 10px;
+
+}
+
+header h2 {
+ padding: 25px;
+}
+
+p {
+  text-align: left;
+  padding-left: 25px;
+
+}
+
+aside-section {
+  padding: 20px;
+}
+
+
+
+section {
+  width: 70%;
+  float: left;
+}
+
+aside {
+  width: 30%;
+  float: right;
+}
+
+img {
+  max-width: 100%;
+  padding-left: 25px;
+}
